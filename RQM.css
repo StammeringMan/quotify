@@ -54,7 +54,8 @@ body {
 1.next button style
 **/
 #next{
-	color: white;
+	background-color: gray;
+	color:white;
 	width: 101px;
 	height: 38px;
 	border: none;
