@@ -45,6 +45,8 @@ body {
 	text-align: justify;
     -moz-text-align-last: right; /* Code for Firefox */
     text-align-last: right;
+    margin: 0;
+    padding:0; 
 }
 #mainquotes #paragraph .based-on-text{
 	display: inline-block;
@@ -55,12 +57,11 @@ body {
 **/
 #next{
 	background-color: gray;
-	color:white;
+	color: white;
 	width: 101px;
 	height: 38px;
 	border: none;
 	border-radius: 5%;
-	float: right;
 	font-size: 14px;
 	cursor: pointer;
 
@@ -73,6 +74,9 @@ body {
 #next:focus{
 	outline: none;
 }
+
+
+
 
 
 
