@@ -106,12 +106,9 @@ getThingsDone.addEventListener('click', function(){
 		mainquotescol.style.color = colors[colorIndex];
 		paragraphcol.style.color = colors[colorIndex];
 		quotescol.style.color = colors[colorIndex];
-		twitbutt.style.backgroundColor = colors[colorIndex];
-		fbcol.style.backgroundColor = colors[colorIndex];
 		mainquotescol.style.color = colors[colorIndex];
 		col.style.backgroundColor = colors[colorIndex];
 		getThingsDone.style.backgroundColor = colors[colorIndex];
 		colorIndex++;	
 });
-
 
